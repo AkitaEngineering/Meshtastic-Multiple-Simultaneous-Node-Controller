@@ -1,0 +1,5 @@
+# Python dependencies for the Meshtastic Multi-Controller Demo
+
+meshtastic>=2.3.0 # Requires meshtastic-python library version 2.3.0 or newer
+                 # You can check your installed version with: pip show meshtastic
+                 # Or install/upgrade with: pip install --upgrade meshtastic
